@@ -19,4 +19,4 @@ jobs:
           release_name: Release1
           draft: false
           prerelease: false
-          body_path: release_notes.md
+          body_path: Release.md
